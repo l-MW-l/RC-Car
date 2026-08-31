@@ -6,10 +6,10 @@ This is an Arduino Uno R4 WiFi based remote control car project, originally made
 
 ![Circuit Diagram](https://raw.githubusercontent.com/l-MW-l/RC-Car/refs/heads/main/Circuit%20diagram.png)
 
-## Gallery
+## Photo of constructed car
 
 
-![Project Image](https://i.ibb.co/cKn6YH9N/20260828-172327.jpg)
+<img src="https://i.ibb.co/cKn6YH9N/20260828-172327.jpg" width="50%" >
 
 ## Components
 
