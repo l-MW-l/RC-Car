@@ -15,3 +15,4 @@ This is an Arduino Uno R4 WiFi based remote control car project, originally made
 
 - The resistors being used are both 1kΩ
 - The relays being used are G2RL-2 and RY211005
+- The servo being used is SG90
